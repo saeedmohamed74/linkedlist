@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1693541513 source:c:\users\har86\onedrive\ÇáãÓÊäÏÇÊ\linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linked_list1.h"
+
+1693541587 c:\users\har86\onedrive\ÇáãÓÊäÏÇÊ\linked list\linked_list1.h
+	"linked_list1.c"
+
+1693541935 c:\users\har86\onedrive\ÇáãÓÊäÏÇÊ\linked list\linked_list1.c
+	<stdio.h>
+	<stdlib.h>
+
